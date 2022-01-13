@@ -137,8 +137,8 @@ class Game{
     }
     showRank() {
         swal({
-            title: `Awesome!${"\n"}Rank${"\n"}${player.rank}`,
-            text: "You reached the finish line successfully",
+            title: `¡Asombroso!${"\n"}Posición${"\n"}${player.rank}`,
+            text: "Alcanzaste la línea de meta exitosamente",
             imageUrl:
               "https://raw.githubusercontent.com/vishalgaddam873/p5-multiplayer-car-race-game/master/assets/cup.png",
             imageSize: "100x100",
